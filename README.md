@@ -10,7 +10,7 @@
 
 * Assembly Language (nasm)
 * Linux Shell Scripting 
-* c/c++ , Java , OOP
+* C/C++ , Java , OOP
 * Python
 * Data Structure , Algorithms , Competitive Programming
 * postgresql , mysql
