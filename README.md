@@ -6,14 +6,17 @@
 
 
 
-#Programming Skills
+# Programming Skills
+
 * Assembly Language (nasm)
 * Linux Shell Scripting 
 * c/c++ , Java , OOP
 * Python
 * Data Structure , Algorithms , Competitive Programming
 * postgresql , mysql
-* 
+
+
+
 
 # Connect with me
 
