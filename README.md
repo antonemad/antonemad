@@ -1,20 +1,17 @@
 # Hi there, I'm Anton  👋 
 
 - 🔭 I'm a Computer Science Student
-- 👀 I’m interested in Programming, Cyber Security and penetration Testing
-- 🌱 I’m currently learning OSCP,ECPPT,SECURITY+,Reverse Engineering and Bug Bounty 
+- 👀 I’m interested in Software Engineering , Cyber Security and penetration Testing
 
 
+# Skills
 
-# Programming Skills
-
-* Assembly Language (nasm)
-* Linux Shell Scripting 
 * C/C++ , Java , OOP
 * Python
 * Data Structure , Algorithms , Competitive Programming
 * postgresql , mysql
-
+* Linux Shell Scripting
+* Assembly Language (nasm)
 
 
 
