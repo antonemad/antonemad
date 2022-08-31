@@ -1,7 +1,7 @@
 # Hi there, I'm Anton  👋 
 
 - 🔭 I'm a Computer Science Student
-- 👀 I’m interested in Software Engineering , Cyber Security and penetration Testing
+- 👀 I’m interested in Software Engineering 
 
 
 # Skills
