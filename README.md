@@ -11,7 +11,6 @@
 * Data Structure , Algorithms , Competitive Programming
 * postgresql , mysql
 * Linux Shell Scripting
-* Assembly Language (nasm)
 
 
 
