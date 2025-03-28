@@ -7,6 +7,8 @@
 # Skills
 
 * C/C++ , Java , OOP
+* java script
+* Nodejs
 * Python
 * Data Structure , Algorithms , Competitive Programming
 * postgresql , mysql
