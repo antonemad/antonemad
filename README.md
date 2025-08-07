@@ -34,7 +34,7 @@ A RESTful API for managing blog posts, users, and categories.
 ---
 
 ### 2. 🎓 School Management System
-Full-featured system for managing academic years, classes, and students.
+A RESTful API for managing a school system, including users, students, teachers, academic years, classes, programs, and more. Built using Node.js, Express, and MongoDB.
 
 - 🔗 [GitHub Repository](https://github.com/antonemad/School-Management-System-Api)
 - 📄 [Postman Documentation](https://documenter.getpostman.com/view/39188598/2sB3BDJqi6)
